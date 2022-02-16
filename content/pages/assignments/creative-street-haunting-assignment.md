@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
 title: Creative Street Haunting Assignment
 uid: b2a49bc1-2cb7-f8d3-00a7-75cb59b126e9

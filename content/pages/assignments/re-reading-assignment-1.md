@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
 title: Re-Reading Assignment 1
 uid: 66406dee-06ab-a0d4-34eb-b64c27dcd75d
