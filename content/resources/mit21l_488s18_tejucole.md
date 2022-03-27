@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Creative Street Haunting Assignment
 parent_type: CourseSection
+parent_uid: b2a49bc1-2cb7-f8d3-00a7-75cb59b126e9
 resourcetype: Image
 title: MIT21L_488S18_tejucole.png
 uid: a0a0fc23-8c64-aa5d-8326-7f103567da45
