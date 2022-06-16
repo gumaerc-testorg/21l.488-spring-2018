@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/a0a0fc238c64aa5d83267f103567da45_MIT21L_488S18_tejucole.png
+file: /courses/21l-488-contemporary-literature-street-haunting-in-the-global-city-spring-2018/a0a0fc238c64aa5d83267f103567da45_MIT21L_488S18_tejucole.png
 file_type: image/png
 image_metadata:
   caption: "Teju Cole's Instagram use of de Certeau's text. \xA9 Teju Cole. All rights\

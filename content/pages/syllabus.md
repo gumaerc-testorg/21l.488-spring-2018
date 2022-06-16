@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This has the course syllabus including the course description and grading
+  breakdown. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

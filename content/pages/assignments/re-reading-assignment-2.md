@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the requirements and prompts for the second re-reading
+  assignment of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

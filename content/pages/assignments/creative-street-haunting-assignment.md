@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains the requirements and prompts for the creative final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
