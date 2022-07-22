@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Screenshot of Instagram post featuring a photograph of a wall and text.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Creative Street Haunting Assignment
 parent_type: CourseSection
