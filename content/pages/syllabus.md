@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This has the course syllabus including the course description and grading
+  breakdown. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ca1f23ab-f20c-d528-1f24-4e594fca107c
 ---

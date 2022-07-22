@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This contains all required and supplementary readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c524a33e-81cd-9d68-4569-cbc04e94b5bf
 ---
@@ -85,7 +89,7 @@ Stephen, Bijan. "[In Praise of the Flâneur](https://www.theparisreview.org/blog
 
 \[OC\] pp. 76–177.
 
-de Certeau, Michel. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Walking in the City (PDF - 12.1MB)](http://www.laits.utexas.edu/berlin/pdf/scholarship/De%20Certeau_Walking.pdf)." In _The Practice of Everyday Life_. University of California Press, 2011. ISBN: 9780520271456.
+de Certeau, Michel. "[Walking in the City](https://soundenvironments.files.wordpress.com/2011/09/decerteau_walking.pdf)." In _The Practice of Everyday Life_. University of California Press, 2011. ISBN: 9780520271456.
 
 
 {{< tdclose >}}

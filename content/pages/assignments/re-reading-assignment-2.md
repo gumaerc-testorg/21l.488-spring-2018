@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This contains the requirements and prompts for the second re-reading
+  assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2fcba12c-d950-38cc-4b8c-1b4ebf2d2cf5
 title: Re-Reading Assignment 2
 uid: 1c6e6247-9618-d064-78c0-138e96e202ad
