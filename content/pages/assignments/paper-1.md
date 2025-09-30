@@ -67,7 +67,7 @@ You may devise a topic of your own so long as you run the idea by me (either in 
 Tips and Important Considerations:
 ----------------------------------
 
-*   Consult the [Oxford English Dictionary (OED)](http://www.oed.com/) for the etymology and multiple meanings of words that are important in your discussion.
+*   Consult the {{% resource_link "ccbc75ef-a959-4ad6-957d-09d942b5696c" "Oxford English Dictionary (OED)" %}} for the etymology and multiple meanings of words that are important in your discussion.
 *   Consult the list of themes provided in most class sessions and try to link something small and specific to those large thematic concerns.
 *   Be sure to focus on the HOW—in other words, not just WHAT the author describes or conveys, but HOW the author does that, and HOW you interpret it.
 *   Go for quality over quantity. Limit yourself to focused, specific examples, or a handful of scenes you can take apart in great detail.

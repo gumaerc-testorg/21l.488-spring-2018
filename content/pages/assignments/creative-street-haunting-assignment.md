@@ -49,5 +49,5 @@ Below I have listed some possible ideas I have in mind. Feel free to use any or 
 *   Find a creative way to mix social media, digital media, virtual reality, and/or encounters with the “actual” city you explore.
 *   Find creative ways to depict the same place through different “lenses” or “perspectives”, however you interpret those ideas.
 *   Explore neighborhoods you have not been to, talk to new people, and use your observations in a creative format of your choice.
-*   Pick a project from the [City Lab](http://senseable.mit.edu/) and write a story that fills in the lived experience gap left open by a big data approach.
+*   Pick a project from the {{% resource_link "eb6c0068-ae9e-4e47-ad15-c31178ce5fa6" "City Lab" %}} and write a story that fills in the lived experience gap left open by a big data approach.
 *   Write an analytical paper on Ben Lerner’s _10:04_ or additional Amit Chaudhuri pieces. Use any of the previous prompts or propose an idea to me. Approx 5 pages.
