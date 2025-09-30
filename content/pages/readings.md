@@ -40,9 +40,9 @@ Baudelaire, Charles. *The Painter of Modern Life*. Penguin UK, 2010. ISBN:978014
 
 Elkin, Lauren. *Flâneuse: Women Walk the City*. Farrar, Straus, and Giroux, 2017. ISBN: 9780374156046.
 
-Livingstone, Joseph and Lovia Gyarkye. "[Death to the Flâneur](https://newrepublic.com/article/141623/death-flaneur)." The New Republic, March 27, 2017.
+Livingstone, Joseph and Lovia Gyarkye. "{{% resource_link "61d03995-2f6e-463e-b7af-ef522756ca55" "Death to the Flâneur" %}}." The New Republic, March 27, 2017.
 
-Stephen, Bijan. "[In Praise of the Flâneur](https://www.theparisreview.org/blog/2013/10/17/in-praise-of-the-flaneur/)." The Paris Review, October 17, 2013.
+Stephen, Bijan. "{{% resource_link "e33cf919-c57f-4b31-92d1-db84c6fd5b57" "In Praise of the Flâneur" %}}." The Paris Review, October 17, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -54,7 +54,7 @@ Stephen, Bijan. "[In Praise of the Flâneur](https://www.theparisreview.org/blog
 
 \[OC\] pp. 76–177.
 
-de Certeau, Michel. "[Walking in the City](https://soundenvironments.files.wordpress.com/2011/09/decerteau_walking.pdf)." In *The Practice of Everyday Life*. University of California Press, 2011. ISBN: 9780520271456.
+de Certeau, Michel. "{{% resource_link "196f7cac-11ec-4331-82d6-8011344478aa" "Walking in the City" %}}." In *The Practice of Everyday Life*. University of California Press, 2011. ISBN: 9780520271456.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -62,7 +62,7 @@ de Certeau, Michel. "[Walking in the City](https://soundenvironments.files.wordp
 
 \[OC\] pp. 178–260.
 
-Cadogan, Garnette. "[Walking While Black](https://lithub.com/walking-while-black/)." Lithub, July 8, 2016.
+Cadogan, Garnette. "{{% resource_link "3c9fc602-64e6-4441-86c7-ad21763f275d" "Walking While Black" %}}." Lithub, July 8, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -74,7 +74,7 @@ Cadogan, Garnette. "[Walking While Black](https://lithub.com/walking-while-black
 
 \[S\] pp. 70–178.
 
-James, Caryn. "[The Intertwining Legacy of Terror Attacks and Fiction](https://www.nytimes.com/2005/08/03/books/the-intertwining-legacy-of-terror-attacks-and-fiction.html)." New York Times, August 3, 2005.
+James, Caryn. "{{% resource_link "b5927b79-ed3f-48d1-a0ed-41491f0a6969" "The Intertwining Legacy of Terror Attacks and Fiction" %}}." New York Times, August 3, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -94,9 +94,9 @@ No assigned readings
 
 Thien, Madeline. "A Map of the City." In *Simple Recipes: Stories*. Little, Brown, 2002. pp. 161–227. ISBN: 9780316833165.
 
-Hussey, Andrew. "The Map is Not the Territory." In *Urban Visions: Experiencing and Envisioning the City*. Liverpool University Press, 2002. ISBN: 9780853236641. \[Preview with [Google Books](https://books.google.com/books?id=Ek2Wsu34rvgC&lpg=PA215&ots=iheUFLBDti&dq=urban%20visions%20experiencing%20and%20envisioning%20the%20city%20the%20map%20is%20not%20the%20territory%20hussey&pg=PA215#v=onepage&q&f=false)\]
+Hussey, Andrew. "The Map is Not the Territory." In *Urban Visions: Experiencing and Envisioning the City*. Liverpool University Press, 2002. ISBN: 9780853236641. \[Preview with {{% resource_link "4f307843-a338-4f4e-9a6e-99009a759e6e" "Google Books" %}}\]
 
-\[Optional\] Handal, Nathalie. "[The City and the Writer: In Phnom Penh with Madeline Thein](https://www.wordswithoutborders.org/dispatches/article/the-city-and-the-writer-in-phnom-penh-with-madeleine-thien-nathalie-handal)." Words Without Borders, Nov 28, 2016.
+\[Optional\] Handal, Nathalie. "{{% resource_link "f29ce818-b9e1-45f5-98c6-74707755bc8f" "The City and the Writer: In Phnom Penh with Madeline Thein" %}}." Words Without Borders, Nov 28, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -110,7 +110,7 @@ No assigned readings, but you can get ahead on reading *Americanah*.
 15
 {{< tdclose >}}{{< tdopen >}}
 
-Preview [Senseable City Lab](http://senseable.mit.edu/) website and brainstorm questions and comments on how fiction writers tell stories about cities.
+Preview {{% resource_link "eb6c0068-ae9e-4e47-ad15-c31178ce5fa6" "Senseable City Lab" %}} website and brainstorm questions and comments on how fiction writers tell stories about cities.
 
 Keep up with \[A\] for next class (suggested pacing: 195–316).
 
@@ -148,7 +148,7 @@ Listen to a short podcast episode from the list below for class discussion.
 
 \[10:04\] pp. 1–95.
 
-Homans, John. "[The City and the Storm](http://nymag.com/news/features/hurricane-sandy-2012-11/)." New York Magazine, November 4, 2012.
+Homans, John. "{{% resource_link "d94baf02-0c91-4201-a257-bf5f67ee6f55" "The City and the Storm" %}}." New York Magazine, November 4, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -166,7 +166,7 @@ Dawson, Ashley. *Extreme Cities*. Verso, 2017. ISBN: 9781784780364.
 23
 {{< tdclose >}}{{< tdopen >}}
 
-Price, Jenny. "[Thirteen Ways of Seeing Nature in L.A.](https://believermag.com/thirteen-ways-of-seeing-nature-in-la/)" Believer, no. 33 (2006).
+Price, Jenny. "{{% resource_link "72288330-cc86-414f-aa0c-649caa554203" "Thirteen Ways of Seeing Nature in L.A." %}}" Believer, no. 33 (2006).
 
 Spirn, Anne Whiston. "City and Nature." In *The Granite Garden: Urban Nature and Human Design.* pp. 3–20. ISBN: 9780465027064.
 
@@ -182,27 +182,27 @@ Listen to a podcast episode from the list below for class discussion.
 
 ## Supplementary Articles & Readings
 
-- AtlanticLIVE. "[Identity and Belonging: The Souls of a City / CityLab Paris](https://www.youtube.com/watch?v=1dU3fRP6pHc)." 26 October 2017. YouTube.
-- Huizeruga, Kevin. "[New York Stories](https://www.nytimes.com/interactive/2017/06/02/magazine/new-york-stories-introduction.html)." *New York Times*.
-- Allen, Paddy and Luke Hoyland. "[The Best City Blogs Around the World](https://www.theguardian.com/cities/interactive/2014/jan/27/best-city-blogs-interactive)." *The Guardian*. 7 April 2014.
-- Chaudhuri, Amit. "[The Moment of the Houses](https://www.theparisreview.org/blog/2018/01/23/the-moment-of-the-houses/)." *The Paris Review*. 23 January 2018.
-- Dwyer, Dialynn. "[Take a Tour of 18 Hidden Literary Landmarks in Cambridge](https://www.boston.com/culture/books/2017/08/13/literary-landmarks-cambridge)." *Boston.com*. 13 August 2017. 
-- Cook, Greg. "[The 50 Best Works of Public Art in Greater Boston, Ranked](http://www.wbur.org/artery/2016/08/29/boston-best-public-art)." *wbur*. 29 August 2016. 
-- Whitman, Walt. "[Crossing Brooklyn Ferry](https://www.poetryfoundation.org/poems/45470/crossing-brooklyn-ferry)." *Poetry Foundation*. 
-- Stevens, Wallace. "[Thirteen Ways of Looking at a Blackbird](https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird)." *Poetry Foundation*. 
-- "[New York City: City Stories](https://www.newyorker.com/collection/nyc-in-the-archive)." *The New Yorker*. 
-- [*CityLab* Homepage](https://www.citylab.com/).
-- "[The Story of Cities](https://www.theguardian.com/cities/series/the-story-of-cities)." *The Guardian*. 
+- AtlanticLIVE. "{{% resource_link "18c2699d-3e3b-4f54-bd7b-f4fa4294e03e" "Identity and Belonging: The Souls of a City / CityLab Paris" %}}." 26 October 2017. YouTube.
+- Huizeruga, Kevin. "{{% resource_link "4bbedeff-f5ac-4a87-9cdd-0487e5823aa8" "New York Stories" %}}." *New York Times*.
+- Allen, Paddy and Luke Hoyland. "{{% resource_link "fca71644-0fce-443f-bf8c-b261a32e7750" "The Best City Blogs Around the World" %}}." *The Guardian*. 7 April 2014.
+- Chaudhuri, Amit. "{{% resource_link "a8b2d548-4e41-49e6-bd2d-a70b5807995a" "The Moment of the Houses" %}}." *The Paris Review*. 23 January 2018.
+- Dwyer, Dialynn. "{{% resource_link "63759564-854e-47bd-8c87-ead826f69a77" "Take a Tour of 18 Hidden Literary Landmarks in Cambridge" %}}." *Boston.com*. 13 August 2017. 
+- Cook, Greg. "{{% resource_link "0739ca32-bbec-489f-aefb-de8f2cfee00d" "The 50 Best Works of Public Art in Greater Boston, Ranked" %}}." *wbur*. 29 August 2016. 
+- Whitman, Walt. "{{% resource_link "03f4b3cc-5da0-4aeb-bccf-d1dda4041e1b" "Crossing Brooklyn Ferry" %}}." *Poetry Foundation*. 
+- Stevens, Wallace. "{{% resource_link "41b9d52e-5ba7-4f62-8d44-89ef6e736b0b" "Thirteen Ways of Looking at a Blackbird" %}}." *Poetry Foundation*. 
+- "{{% resource_link "3eaea688-1d35-443b-9c97-307193da1d29" "New York City: City Stories" %}}." *The New Yorker*. 
+- {{% resource_link "b8093dac-e56b-41f8-8132-eee5a7fa8b07" "*CityLab* Homepage" %}}.
+- "{{% resource_link "24a9d84d-eb7e-4fa2-afdd-1773be14c30f" "The Story of Cities" %}}." *The Guardian*. 
 - Glissant, Edouard. "For Opacity." In *Poetics of Relation*. University of Michigan Press, 1997. pp. 189–194. ISBN: 9780472066292. 
 - Williams, Raymond. *The Country and the City*. Oxford University Press, 1975. pp. 1–8. ISBN: 9780195198102. 
 
 ## Podcasts
 
-- Turk, Andrew. "[Sound and City](https://monocle.com/radio/shows/the-urbanist/331/)." *The Urbanist*. Podcast, 15 February 2018.
-- "[Urban Planning Conversation with Brent Toderian](https://www.spreaker.com/user/ite-talks-transportation/urban-planning-conversation-with-brent-t)." *ITE Talks Transportation*. Podcast, 27 September 2016. 
-- Vedantam, Shankar, Kara McGuirk-Alison, et al. "[Traffic](https://www.npr.org/2016/05/03/476028372/the-unintended-consequences-of-trying-to-fix-traffic)." *The Hidden Brain*. Podcast, 3 May 2016. 
-- Turk, Andrew. "[Tall Stories 81: San Francisco's Fog](https://monocle.com/radio/shows/the-urbanist/tall-stories-81/)." *The Urbanist*. Podcast, 6 November 2017.
-- Greenspan, Sam. "[The Arsenal of Exclusion](https://99percentinvisible.org/episode/episode-51-the-arsenal-of-exclusion/)." *99% Invisible*. Podcast, 4 April 2012. 
-- Kohlstedt, Kurt. "[Unpleasant Design in Disguise: Bike Racks & Boulders as Defensive Urbanism](https://99percentinvisible.org/article/unpleasant-design-disguise-bike-racks-boulders-defensive-urbanism/)." *99% Invisible*. Podcast, 5 February 2018.
-- [*99% Invisible* Homepage](https://99percentinvisible.org/).
-- [*The Urbanist* Homepage](https://monocle.com/radio/shows/the-urbanist/).
+- Turk, Andrew. "{{% resource_link "fe166406-13c1-43c2-80f9-9c9759f4d944" "Sound and City" %}}." *The Urbanist*. Podcast, 15 February 2018.
+- "{{% resource_link "fccf3789-99fc-43c6-82d9-2d25796ab271" "Urban Planning Conversation with Brent Toderian" %}}." *ITE Talks Transportation*. Podcast, 27 September 2016. 
+- Vedantam, Shankar, Kara McGuirk-Alison, et al. "{{% resource_link "1a38fbb1-0683-4ce9-8cae-f2580a3fac14" "Traffic" %}}." *The Hidden Brain*. Podcast, 3 May 2016. 
+- Turk, Andrew. "{{% resource_link "d131531b-fa74-4b3e-b864-0e1c6ecf2184" "Tall Stories 81: San Francisco's Fog" %}}." *The Urbanist*. Podcast, 6 November 2017.
+- Greenspan, Sam. "{{% resource_link "b0f9b97e-9956-48a9-8a67-e2c5eab15f77" "The Arsenal of Exclusion" %}}." *99% Invisible*. Podcast, 4 April 2012. 
+- Kohlstedt, Kurt. "{{% resource_link "f04a8e64-fb95-4c96-9293-09ab6337d897" "Unpleasant Design in Disguise: Bike Racks & Boulders as Defensive Urbanism" %}}." *99% Invisible*. Podcast, 5 February 2018.
+- {{% resource_link "f5b4d566-3ab1-4683-a3db-1282f3e54930" "*99% Invisible* Homepage" %}}.
+- {{% resource_link "7b983f82-12f4-4060-8b96-f9d442085215" "*The Urbanist* Homepage" %}}.
