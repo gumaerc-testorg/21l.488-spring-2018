@@ -259,7 +259,7 @@ The Uses of Genre
 
 {{< tdclose >}}
 {{< tdopen >}}
-[MIT Senseable City Lab](http://senseable.mit.edu/) Class Visit
+{{% resource_link "eb6c0068-ae9e-4e47-ad15-c31178ce5fa6" "MIT Senseable City Lab" %}} Class Visit
 {{< tdclose >}}
 
 {{< trclose >}}

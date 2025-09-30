@@ -52,7 +52,7 @@ Re-read at least 5 pages from Baudelaire or de Certeau. You can provide answers/
 
 You must provide notes for all of the following:
 
-*   List and look up any words (or allusions) that you do not know or would like a more precise definition for. Record the definitions. If there are no words you did not already know, choose any 3 and record their basic [Oxford English Dictionary (OED)](http://oed.com) etymology.
+*   List and look up any words (or allusions) that you do not know or would like a more precise definition for. Record the definitions. If there are no words you did not already know, choose any 3 and record their basic {{% resource_link "1f159385-c5c9-4fe9-9c1c-448469a246d3" "Oxford English Dictionary (OED)" %}} etymology.
 *   Jot down figurative uses of language or interesting rhetorical devices. These are critical pieces, but the authors still make creative choices. What are they?
 *   Choose 1 sentence that could provide a good quotation in a paper, or could connect to one of our primary texts.
 *   Paraphase or jot down notes on the main point(s) made by the author (about 1–3 is fine).
