@@ -66,7 +66,7 @@ You are enthusiastically encouraged to devise your own topics. Please run the id
 Tips and Important Considerations \[this list was provided for Paper 1 as well\]:
 ---------------------------------------------------------------------------------
 
-*   Consult the [Oxford English Dictionary (OED)](http://oed.com) for the etymology and multiple meanings of words that are important in your discussion.
+*   Consult the {{% resource_link "1f159385-c5c9-4fe9-9c1c-448469a246d3" "Oxford English Dictionary (OED)" %}} for the etymology and multiple meanings of words that are important in your discussion.
 *   Consult the list of themes provided in most class sessions and try to link something small and specific to those large thematic concerns.
 *   Be sure to focus on the HOW—in other words, not just WHAT the author describes or conveys, but HOW the author does that, and HOW you interpret it.
 *   Go for quality over quantity. Limit yourself to focused, specific examples, or a handful of scenes you can take apart in great detail.
